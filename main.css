@@ -1,0 +1,50 @@
+body{
+	background-color: red;
+}
+#projects{
+	background-color: orange;
+}
+#letter{
+
+	text-align: center;
+	font-size: 150px;
+	color:black;
+}
+#bar1{
+	height: 900px;
+	width: 100%;
+	border: 1px solid black;
+}
+#contact{
+	background-color: pink;
+}
+#la{
+	color: white;
+	text-align: center;
+	font-size: 18pt;
+	margin-top: 40px;
+	font-family: 'Slabo 27px', serif;
+}
+hr{
+	width: 12%;
+	border: 0;
+	border-top: 1px solid #FFF;
+	display: inline-block;
+}
+.circular {
+    margin-top: 30px;
+    margin-bottom: 15px;
+    text-align: center;
+    width: 300px;
+    height: 300px;
+    border-radius: 150px;
+    -webkit-border-radius: 150px;
+    -moz-border-radius: 150px;
+    background: url("http://www.hiphopdx.com//images/news/1-1-2-JCole_304.jpg") no-repeat;
+    box-shadow: 0 0 8px rgba(0, 0, 0, .8);
+    -webkit-box-shadow: 0 0 8px rgba(0, 0, 0, .8);
+    -moz-box-shadow: 0 0 8px rgba(0, 0, 0, .8);
+    color: black;
+    text-align: center;
+    margin-left: 38%;
+}
