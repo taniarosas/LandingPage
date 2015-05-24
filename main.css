@@ -1,19 +1,24 @@
 body{
-	background-color: red;
+	background-color: black;
 }
 #projects{
-	background-color: orange;
+	background-color: black;
 }
 #letter{
-
+	font-family: 'Allerta Stencil', sans-serif;
 	text-align: center;
 	font-size: 150px;
-	color:black;
+	color: white;
 }
 #bar1{
-	height: 900px;
+	height: 100%;
 	width: 100%;
-	border: 1px solid black;
+	border: 2px solid grey;
+}
+#bar2{
+	width: 50%;
+	border: 1px solid grey;
+	margin-left: 25%;
 }
 #contact{
 	background-color: pink;
@@ -21,9 +26,14 @@ body{
 #la{
 	color: white;
 	text-align: center;
-	font-size: 18pt;
+	font-size: 35px;
 	margin-top: 40px;
-	font-family: 'Slabo 27px', serif;
+	font-family: 'Allerta Stencil', sans-serif;
+	text-decoration:none;
+	color: white; 
+	margin-left: 10px;
+  	margin-right: 10px;
+
 }
 hr{
 	width: 12%;
@@ -47,4 +57,45 @@ hr{
     color: black;
     text-align: center;
     margin-left: 38%;
+}
+
+#footer{
+padding-left: 900px;
+height: 100px;
+}
+
+.socials li{
+   opacity:.8;
+   -webkit-transition: -webkit-all 1.4s ease;
+   -moz-transition: -moz-all 1.4s ease;
+   -o-transition: -o-all 1.4s ease;
+   transition: all 1.4s ease;
+   display:inline-block;
+   padding:15px 5px 10px 20px;
+   background-color:#a9a9a9;
+   width:55px;
+  margin:0 5px;
+   border-radius:50%;
+   font-size:2.9em;
+
+}
+.socials li:hover{
+   -webkit-transform:scale(1.5) rotate(360deg);
+   -moz-transform: scale(1.5) rotate(360deg);
+   -o-transform: scale(1.5) rotate(360deg);
+   -ms-transform: scale(1.5) rotate(360deg);
+   transform: scale(1.5) rotate(360deg);
+   color:red;
+   opacity:1;
+   cursor:pointer;
+  box-shadow:1px 1px 5px #000;
+}
+#f:hover{
+  color:#00008B;
+}
+#t:hover{
+  color:#6495ED;
+}
+.socials{
+  list-style:none;
 }
