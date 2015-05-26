@@ -14,13 +14,42 @@
 	<hr>
 		<span>
 	</hr>	
-			
 			<A id="la" HREF = "index.php">Home</A>
 			<A id="la" HREF = "contact.php">Contact</A>
 	<hr>		
 		</span>
 	</hr>
 </div>
+<p>
+<a href="http://localhost/blog/index.php">
+<img src="blog.png" alt="Go to W3Schools!" width="200" height="200" border="0">
+</a>
+</p>
+<p>
+<a href="http://localhost/Awesomenauts/index.html">
+<img src="awesomenauts.png" alt="Go to W3Schools!" width="200" height="200" border="0">
+</a>
+</p>
+<p>
+<a href="http://localhost/Me-master/index.html">
+<img src="Me.png" alt="Go to W3Schools!" width="200" height="200" border="0">
+</a>
+</p>
+<p>
+<a href="http://localhost/myapi/index.php">
+<img src="myapi.png" alt="Go to W3Schools!" width="200" height="200" border="0">
+</a>
+</p>
+<p>
+<a href="http://localhost/todo-list/index.php">
+<img src="todo-list.png" alt="Go to W3Schools!" width="200" height="200" border="0">
+</a>
+</p>
+<p>
+<a href="http://localhost/todo2/index.php">
+<img src="todo2.png" alt="Go to W3Schools!" width="200" height="200" border="0">
+</a>
+</p>
 <div id="bar2">
 </div>
 <footer id="footer">

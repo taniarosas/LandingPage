@@ -14,7 +14,6 @@
 	<hr>
 		<span>
 	</hr>	
-			
 			<A id="la" HREF = "contact.php">Contact</A>
 			<A id="la" HREF = "projects.php">Projects</A>
 	<hr>		
