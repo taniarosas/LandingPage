@@ -19,6 +19,7 @@ body{
 	width: 50%;
 	border: 1px solid grey;
 	margin-left: 25%;
+	margin-top: 6%;
 }
 #contact{
 	background-color: pink;
@@ -98,4 +99,36 @@ height: 100px;
 }
 .socials{
   list-style:none;
+}
+#pic1{
+	margin-left: 14%;
+	margin-top: 5%;
+	display: inline-block;
+	border-radius: 25px;
+}
+#pic2{
+	margin-left: 10%;
+	display: inline-block;
+	border-radius: 25px;
+}
+#pic3{
+	margin-left: 10%;
+	display: inline-block;
+	border-radius: 25px;
+}
+#pic4{
+	margin-top: 5%;
+	margin-left: 14%;
+	display: inline;
+	border-radius: 25px;
+}
+#pic5{
+	margin-left: 10%;
+	display: inline;
+	border-radius: 25px;
+}
+#pic6{
+	margin-left: 10%;
+	display: inline-block;
+	border-radius: 25px;
 }

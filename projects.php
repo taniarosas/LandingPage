@@ -20,34 +20,34 @@
 		</span>
 	</hr>
 </div>
-<p>
+<p id="pic1">
 <a href="http://localhost/blog/index.php">
-<img src="blog.png" alt="Go to W3Schools!" width="200" height="200" border="0">
+<img src="blog.png" alt="Go to W3Schools!" width="250" height="250" border="0">
 </a>
 </p>
-<p>
+<p id="pic2">
 <a href="http://localhost/Awesomenauts/index.html">
-<img src="awesomenauts.png" alt="Go to W3Schools!" width="200" height="200" border="0">
+<img src="awesomenauts.png" alt="Go to W3Schools!" width="250" height="250" border="0">
 </a>
 </p>
-<p>
+<p id="pic3">
 <a href="http://localhost/Me-master/index.html">
-<img src="Me.png" alt="Go to W3Schools!" width="200" height="200" border="0">
+<img src="Me.png" alt="Go to W3Schools!" width="250" height="250" border="0">
 </a>
 </p>
-<p>
+<p id="pic4">
 <a href="http://localhost/myapi/index.php">
-<img src="myapi.png" alt="Go to W3Schools!" width="200" height="200" border="0">
+<img src="myapi.png" alt="Go to W3Schools!" width="250" height="250" border="0">
 </a>
 </p>
-<p>
+<p id="pic5">
 <a href="http://localhost/todo-list/index.php">
-<img src="todo-list.png" alt="Go to W3Schools!" width="200" height="200" border="0">
+<img src="todo-list.png" alt="Go to W3Schools!" width="250" height="250" border="0">
 </a>
 </p>
-<p>
+<p id="pic6">
 <a href="http://localhost/todo2/index.php">
-<img src="todo2.png" alt="Go to W3Schools!" width="200" height="200" border="0">
+<img src="todo2.png" alt="Go to W3Schools!" width="250" height="250" border="0">
 </a>
 </p>
 <div id="bar2">
