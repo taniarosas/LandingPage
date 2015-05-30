@@ -1,5 +1,5 @@
 body{
-	background-color: black;
+	background-image: url("");
 }
 #projects{
 	background-color: black;
@@ -20,9 +20,6 @@ body{
 	border: 1px solid grey;
 	margin-left: 25%;
 	margin-top: 6%;
-}
-#contact{
-	background-color: pink;
 }
 #la{
 	color: white;
@@ -131,4 +128,14 @@ height: 100px;
 	margin-left: 10%;
 	display: inline-block;
 	border-radius: 25px;
+}
+#contact{
+	font-family: 'Allerta Stencil', sans-serif;
+	font-size: 50px;
+	color: white;
+}
+.form1{
+	color: white;
+	font-family: 'Allerta Stencil', sans-serif;
+	font-size: 20px;
 }
