@@ -1,11 +1,14 @@
 body{
-	background-image: url("");
+	background-image: url("http://hdnextyear.com/wp-content/uploads/2015/01/wallpapers-for-christian-background-tumblr-photography-vintage-images-tumblr-wallpapers.jpg");
+	background-size: 200% 100%;
+
 }
 #projects{
-	background-color: black;
+	background-image: url("http://www.pthr.co.uk/wp-content/uploads/2015/03/bokeh-lights-sunset-city-hd-wallpaper.jpg");
+	background-size: 100% 100%;
 }
 #letter{
-	font-family: 'Allerta Stencil', sans-serif;
+	font-family: 'Lobster', cursive;
 	text-align: center;
 	font-size: 150px;
 	color: white;
@@ -48,7 +51,8 @@ hr{
     border-radius: 150px;
     -webkit-border-radius: 150px;
     -moz-border-radius: 150px;
-    background: url("http://www.hiphopdx.com//images/news/1-1-2-JCole_304.jpg") no-repeat;
+    background-image: url("http://41.media.tumblr.com/e80636354b84e175b05289c49d5c0458/tumblr_mr2h115qOE1qjacexo1_500.jpg");
+    background-size: 100% 100%;
     box-shadow: 0 0 8px rgba(0, 0, 0, .8);
     -webkit-box-shadow: 0 0 8px rgba(0, 0, 0, .8);
     -moz-box-shadow: 0 0 8px rgba(0, 0, 0, .8);
@@ -133,9 +137,14 @@ height: 100px;
 	font-family: 'Allerta Stencil', sans-serif;
 	font-size: 50px;
 	color: white;
+	text-align: center;
 }
 .form1{
 	color: white;
 	font-family: 'Allerta Stencil', sans-serif;
-	font-size: 20px;
+	font-size: 40px;
+	background-color: black;
+	background-size: 100% 205%;
+	text-align: center;
+
 }

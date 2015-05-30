@@ -1,17 +1,29 @@
 <!DOCTYPE html>
 <html>
 <head>    
-    <link rel="stylesheet" type="text/css" href="form.css">
+    <link rel="stylesheet" type="text/css" href="main.css">
+    <link href='http://fonts.googleapis.com/css?family=Allerta+Stencil' rel='stylesheet' type='text/css'>
+
+
 </head>
 <body class="form1">
 
-
 <?php
     require_once(__DIR__ . "/./model/config.php");
-
  ?>
+<div id="bar1"> 
+<div id="contact">Contact Information</div>
+<div id="la">
+    <hr>
+        <span>
+    </hr>   
+            <A id="la" HREF = "index.php">Home</A>
+            <A id="la" HREF = "projects.php">Projects</A>
+    <hr>        
+        </span>
+    </hr>
+</div>
 
-<h1>Contact Information</h1>
 
 <!-- form takes in information and send it to the table -->
 <form method="post" action="<?php echo $path . "controller/create-post.php"; ?>">
@@ -47,7 +59,10 @@
         <!-- create a button called submit -->
         <button type="submit">Submit</button>
     </div>
+
 </form>
 
+</footer>
+</div>
 </body>
 </html>
