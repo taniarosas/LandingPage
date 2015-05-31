@@ -7,8 +7,8 @@
 
 	<title></title>
 </head>
+<div id="bar1">
 <body id="projects">
-<div id="bar1">	
 <div id="letter">
 	T
 </div>

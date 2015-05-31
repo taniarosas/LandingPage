@@ -16,18 +16,18 @@ body{
 #bar1{
 	height: 100%;
 	width: 100%;
-	border: 2px solid grey;
+	border: 2px solid white;
 }
 #bar2{
 	width: 50%;
-	border: 1px solid grey;
+	border: 1px solid white;
 	margin-left: 25%;
 	margin-top: 6%;
 }
 #la{
 	color: white;
 	text-align: center;
-	font-size: 35px;
+	font-size: 40px;
 	margin-top: 40px;
 	font-family: 'Allerta Stencil', sans-serif;
 	text-decoration:none;
@@ -138,13 +138,16 @@ height: 100px;
 	font-size: 50px;
 	color: white;
 	text-align: center;
+	margin-top: 40px;
 }
 .form1{
+	background-image: url("http://pocketguys.com/wp-content/uploads/2014/11/New-York-City-Tumblr-Photography-High-Resolution-Wallpaper.jpg");
+	background-size: 100% 110%;
+	text-align: center;
+}
+#post{
 	color: white;
 	font-family: 'Allerta Stencil', sans-serif;
-	font-size: 40px;
-	background-color: black;
-	background-size: 100% 205%;
-	text-align: center;
-
+	font-size: 35px;
+	margin-top: 40px;
 }
