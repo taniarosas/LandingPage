@@ -132,7 +132,7 @@ height: 100px;
 	font-size: 50px;
 	color: white;
 	text-align: center;
-	margin-top: 40px;
+	margin-top: 20px;
 }
 .form1{
 	background-image: url("http://pocketguys.com/wp-content/uploads/2014/11/New-York-City-Tumblr-Photography-High-Resolution-Wallpaper.jpg");
@@ -144,4 +144,10 @@ height: 100px;
 	font-family: 'Allerta Stencil', sans-serif;
 	font-size: 35px;
 	margin-top: 40px;
+}
+#button{
+	height: 40px;
+	width: 80px;
+	text-align: center;
+	font-size: 20px;
 }

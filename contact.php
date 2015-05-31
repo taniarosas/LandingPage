@@ -3,7 +3,7 @@
 <head>    
     <link rel="stylesheet" type="text/css" href="main.css">
     <link href='http://fonts.googleapis.com/css?family=Allerta+Stencil' rel='stylesheet' type='text/css'>
-
+    <link href='http://fonts.googleapis.com/css?family=Lobster' rel='stylesheet' type='text/css'>
 
 </head>
  <div id="bar1">
@@ -12,6 +12,9 @@
 <?php
     require_once(__DIR__ . "/./model/config.php");
  ?>
+ <div id="letter">
+    T
+</div>
 <div id="contact">Contact Information</div>
 <div id="la">
     <hr>
@@ -57,7 +60,7 @@
         
     <div>
         <!-- create a button called submit -->
-        <button type="submit">Submit</button>
+        <button id="button" type="submit">Submit</button>
     </div>
 
 </form>
