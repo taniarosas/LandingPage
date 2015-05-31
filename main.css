@@ -1,7 +1,6 @@
 body{
 	background-image: url("http://hdnextyear.com/wp-content/uploads/2015/01/wallpapers-for-christian-background-tumblr-photography-vintage-images-tumblr-wallpapers.jpg");
 	background-size: 200% 100%;
-
 }
 #projects{
 	background-image: url("http://www.pthr.co.uk/wp-content/uploads/2015/03/bokeh-lights-sunset-city-hd-wallpaper.jpg");
@@ -34,12 +33,11 @@ body{
 	color: white; 
 	margin-left: 10px;
   	margin-right: 10px;
-
 }
 hr{
 	width: 12%;
 	border: 0;
-	border-top: 1px solid #FFF;
+	border-top: 2px solid #FFF;
 	display: inline-block;
 }
 .circular {
@@ -60,12 +58,10 @@ hr{
     text-align: center;
     margin-left: 38%;
 }
-
 #footer{
-padding-left: 900px;
-height: 100px;
+	padding-left: 900px;
+	height: 100px;
 }
-
 .socials li{
    opacity:.8;
    -webkit-transition: -webkit-all 1.4s ease;
@@ -76,10 +72,9 @@ height: 100px;
    padding:15px 5px 10px 20px;
    background-color:#a9a9a9;
    width:55px;
-  margin:0 5px;
+   margin:0 5px;
    border-radius:50%;
    font-size:2.9em;
-
 }
 .socials li:hover{
    -webkit-transform:scale(1.5) rotate(360deg);
@@ -90,16 +85,7 @@ height: 100px;
    color:red;
    opacity:1;
    cursor:pointer;
-  box-shadow:1px 1px 5px #000;
-}
-#f:hover{
-  color:#00008B;
-}
-#t:hover{
-  color:#6495ED;
-}
-.socials{
-  list-style:none;
+   box-shadow:1px 1px 5px #000;
 }
 #pic1{
 	margin-left: 14%;

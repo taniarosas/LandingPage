@@ -1,0 +1,66 @@
+@media only screen and (min-device-width: 375px) and (max-device-width: 667px) and (orientation : portrait) { 
+	body{
+	background-image: url("http://hdnextyear.com/wp-content/uploads/2015/01/wallpapers-for-christian-background-tumblr-photography-vintage-images-tumblr-wallpapers.jpg");
+	background-size: 100% 100%;
+	}
+	#letter{
+	margin-top: 10%;
+	font-family: 'Lobster', cursive;
+	text-align: center;
+	font-size: 245px;
+	color: white;
+	}
+	#bar1{
+	height: 100%;
+	width: 100%;
+	border: 4px solid white;
+	}
+	#bar2{
+	width: 50%;
+	border: 3px solid white;
+	margin-left: 25%;
+	margin-top: 15%;
+	}
+	#la{
+	color: white;
+	text-align: center;
+	font-size: 70px;
+	margin-top: 60px;
+	font-family: 'Allerta Stencil', sans-serif;
+	text-decoration:none;
+	color: white; 
+	margin-left: 10px;
+  	margin-right: 10px;
+  	margin-top: 10%
+	}
+	hr{
+	width: 12%;
+	border: 0;
+	border-top: 5px solid #FFF;
+	display: inline-block;
+	}
+	.circular {
+	margin-left: 26%;
+    margin-top: 15%;
+    margin-bottom: 15px;
+    text-align: center;
+    width: 500px;
+    height: 500px;
+    border-radius: 150px;
+    -webkit-border-radius: 150px;
+    -moz-border-radius: 150px;
+    background-image: url("http://41.media.tumblr.com/e80636354b84e175b05289c49d5c0458/tumblr_mr2h115qOE1qjacexo1_500.jpg");
+    background-size: 100% 100%;
+    box-shadow: 0 0 8px rgba(0, 0, 0, .8);
+    -webkit-box-shadow: 0 0 8px rgba(0, 0, 0, .8);
+    -moz-box-shadow: 0 0 8px rgba(0, 0, 0, .8);
+    color: black;
+	}
+	#footer{
+	margin-top: 15%;
+	padding-left: 55%;
+	height: 100px;
+	margin-bottom: 9%;
+	}
+}
+
